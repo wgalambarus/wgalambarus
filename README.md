@@ -6,7 +6,7 @@
 - 💻 Im currently learning about **Python and Rust**
 - 🔎 My Pronoun is  **he/him**
 - 🌐 Currently learning **Operating System and Security Related Stuff**
-- Fun fact : I always have more times debugging then 😆
+- Fun fact : I always have more times debugging then coding 😆
 
 ---
 
